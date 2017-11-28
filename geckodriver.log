@@ -1,0 +1,193 @@
+1484842309164	geckodriver	INFO	Listening on 127.0.0.1:49308
+1484842310060	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.83FgH7yUXjwg
+1484842310063	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484842310081	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49317
+1484842310992	Marionette	INFO	Listening on port 49317
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14145] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14145] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484842380276	geckodriver	INFO	Listening on 127.0.0.1:49400
+1484842381197	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.MBzwJmB17Z3R
+1484842381199	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484842381201	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49409
+1484842381896	Marionette	INFO	Listening on port 49409
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.translate.com/js/homepage.js?1484842395, line 73: TypeError: result.human_translation_details.free_words_used is undefined
+JavaScript error: https://www.translate.com/js/homepage.js?1484842395, line 73: TypeError: result.human_translation_details.free_words_used is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14174] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14174] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484842472556	geckodriver	INFO	Listening on 127.0.0.1:49581
+1484842473482	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.hwlpRL4AdO7d
+1484842473484	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484842473487	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49592
+1484842474169	Marionette	INFO	Listening on port 49592
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.translate.com/js/homepage.js?1484842487, line 73: TypeError: result.human_translation_details.free_words_used is undefined
+1484842497790	geckodriver	INFO	Listening on 127.0.0.1:49754
+1484842498739	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.rtMG2HOL2dCc
+1484842498742	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484842498745	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49763
+1484842499657	Marionette	INFO	Listening on port 49763
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14187] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14187] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14191] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14191] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484842585067	geckodriver	INFO	Listening on 127.0.0.1:49876
+1484842586007	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.UCVxhfvEktI8
+1484842586009	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484842586012	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49885
+1484842586719	Marionette	INFO	Listening on port 49885
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.translate.com/js/homepage.js?1484842599, line 73: TypeError: result.human_translation_details.free_words_used is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14218] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14218] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484842786237	geckodriver	INFO	Listening on 127.0.0.1:50081
+1484842787105	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.H4qMHi3olUyz
+1484842787107	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484842787112	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50090
+1484842788176	Marionette	INFO	Listening on port 50090
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14291] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 14291] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14291] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484842807714	geckodriver	INFO	Listening on 127.0.0.1:50185
+1484842808596	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.Rrzv4Eg0XTAS
+1484842808599	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484842808602	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50194
+1484842809591	Marionette	INFO	Listening on port 50194
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.translate.com/js/homepage.js?1484842824, line 477: TypeError: result.human_translation_details.free_words_used is undefined
+1484843098288	geckodriver	INFO	Listening on 127.0.0.1:50390
+1484843099227	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.Vplh5BuEJPHd
+1484843099229	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484843099234	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50399
+1484843100020	Marionette	INFO	Listening on port 50399
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+[Child 14309] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14309] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14301] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14301] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484843563463	geckodriver	INFO	Listening on 127.0.0.1:50563
+1484843564357	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.UL9o9JKmj9K4
+1484843564360	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484843564365	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50572
+1484843565239	Marionette	INFO	Listening on port 50572
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.translate.com/js/homepage.js?1484843579, line 477: TypeError: result.human_translation_details.free_words_used is undefined
+[Child 15141] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15141] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484843767696	geckodriver	INFO	Listening on 127.0.0.1:50780
+1484843768618	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.JjUpgoXC7StH
+1484843768621	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484843768624	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50789
+1484843769285	Marionette	INFO	Listening on port 50789
+[Child 15169] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15169] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484843771271	geckodriver	INFO	Listening on 127.0.0.1:50814
+1484843771486	geckodriver	INFO	Listening on 127.0.0.1:50819
+1484843778999	geckodriver	INFO	Listening on 127.0.0.1:50826
+1484843779902	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.OqGKUn08Cjqe
+1484843779904	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484843779907	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50835
+1484843780511	Marionette	INFO	Listening on port 50835
+[Child 15177] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15177] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484843782524	geckodriver	INFO	Listening on 127.0.0.1:50856
+1484843782682	geckodriver	INFO	Listening on 127.0.0.1:50861
+1484843797833	geckodriver	INFO	Listening on 127.0.0.1:50869
+1484843798747	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.ZVN5CPPgl3V3
+1484843798749	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484843798751	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50878
+1484843799397	Marionette	INFO	Listening on port 50878
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15187] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15187] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484844803835	geckodriver	INFO	Listening on 127.0.0.1:51397
+1484844804732	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.4frjsZtM1h62
+1484844804735	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484844804739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51406
+1484844805546	Marionette	INFO	Listening on port 51406
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15283] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 15283] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15283] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484844907742	geckodriver	INFO	Listening on 127.0.0.1:51490
+1484844908670	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.QmWvpOQxA0xp
+1484844908673	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484844908676	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51499
+1484844909347	Marionette	INFO	Listening on port 51499
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15301] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15301] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484844926190	geckodriver	INFO	Listening on 127.0.0.1:51647
+1484845011799	geckodriver	INFO	Listening on 127.0.0.1:51654
+1484845012720	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.3pH5AxnQxP6Z
+1484845012723	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484845012726	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51663
+1484845013401	Marionette	INFO	Listening on port 51663
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15318] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15318] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484845127822	geckodriver	INFO	Listening on 127.0.0.1:51820
+1484845128757	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.yBTxB7VT5DuG
+1484845128759	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484845128762	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51829
+1484845129437	Marionette	INFO	Listening on port 51829
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+[Child 15337] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15337] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484845135538	geckodriver	INFO	Listening on 127.0.0.1:51904
+1484845153212	geckodriver	INFO	Listening on 127.0.0.1:51927
+1484845154132	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.tULc6JYV97Ua
+1484845154135	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1484845154138	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51936
+1484845154817	Marionette	INFO	Listening on port 51936
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.translate.com/js/homepage.js?1484845168, line 477: TypeError: result.human_translation_details.free_words_used is undefined
+[Child 15346] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15346] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1511896786508	geckodriver	INFO	Listening on 127.0.0.1:64018
+1511896787402	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.n1YctjS8H8a5
+1511896787405	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1511896787440	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64027
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1511896788806	Marionette	INFO	Listening on port 64027
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: http://www.gujaratilexicon.com//, line 697: ReferenceError: CKEDITOR is not defined
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.gujaratilexicon.com/dictionary/gujarati-to-english/%E0%AA%A6%E0%AB%87%E0%AA%B5*/, line 678: ReferenceError: CKEDITOR is not defined
+[Child 6855] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6855] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056

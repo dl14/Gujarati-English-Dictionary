@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Gujarati to English Dictionary</h1>
+    <form action="/mainpage" method="POST">
+        Search term: <br/>
+        <input type="text" name="searchword"><br/>
+        <input type="submit" value="Submit">
+    </form>
+
+    Searchword: {{ searchword }} <br/>
+    Defintions: <br/>
+    {% for def in def_arr %}
+    {{def}} <br/>
+    {% endfor %}
+
+</body>
+</html>
