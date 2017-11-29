@@ -1,4 +1,4 @@
 Flask
 gunicorn
 beautifulsoup4
-urllib
+requests
