@@ -4,7 +4,7 @@ import glexi
 
 app = Flask(__name__)
 print("IN APP.PY")
-@app.route('/', methods=['POST', 'GET'])
+@app.route('/mainpage', methods=['POST', 'GET'])
 def hello_world():
     searchword = request.form.get('searchword')
     print("calling glexi")
