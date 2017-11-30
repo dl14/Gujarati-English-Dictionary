@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from selenium import webdriver
+#from selenium import webdriver
 from bs4 import BeautifulSoup
 
 #import unittest, time, re
@@ -30,7 +30,7 @@ def scrape_shabdakosh(searchword):
 
         base_url = "http://www.shabdkosh.com/gu/translate?e="
         new_url = base_url+searchword+"&l=gu"
-        
+
         #driver = webdriver.Firefox()
         #driver.get(new_url)
         #time.sleep(10)
