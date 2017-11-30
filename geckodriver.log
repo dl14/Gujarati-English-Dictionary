@@ -191,3 +191,59 @@ JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min
 JavaScript error: http://www.gujaratilexicon.com/dictionary/gujarati-to-english/%E0%AA%A6%E0%AB%87%E0%AA%B5*/, line 678: ReferenceError: CKEDITOR is not defined
 [Child 6855] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
 [Child 6855] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1512000158607	geckodriver	INFO	Listening on 127.0.0.1:59704
+1512000159501	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.zBxkobc56DBg
+1512000159503	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1512000159559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59713
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1512000160548	Marionette	INFO	Listening on port 59713
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+[Child 18262] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18262] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1512000195010	geckodriver	INFO	Listening on 127.0.0.1:59809
+1512000195919	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.GOllSj5wiCe8
+1512000195921	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1512000195925	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59818
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1512000196739	Marionette	INFO	Listening on port 59818
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1512000216889	geckodriver	INFO	Listening on 127.0.0.1:59868
+1512000217764	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.26rXCa4FFH3Q
+1512000217766	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1512000217768	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59877
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1512000218425	Marionette	INFO	Listening on port 59877
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1512000737842	geckodriver	INFO	Listening on 127.0.0.1:60064
+1512000738737	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.QWZw3Oq4bPAy
+1512000738740	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1512000738744	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60073
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1512000739610	Marionette	INFO	Listening on port 60073
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 18351] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18351] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1512001035900	geckodriver	INFO	Listening on 127.0.0.1:60155
+1512001036786	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.Mb1ZGXLBbB4F
+1512001036789	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1512001036793	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60164
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1512001037740	Marionette	INFO	Listening on port 60164
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: , line 0: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+[Child 18385] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18385] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1512005174894	geckodriver	INFO	Listening on 127.0.0.1:61638
+1512005175789	mozprofile::profile	INFO	Using profile path /var/folders/4t/3lhl0rc9661gmgx0gd1h2l5m0000gn/T/rust_mozprofile.EmFQ9pAKktKo
+1512005175791	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1512005175796	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61647
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1512005176794	Marionette	INFO	Listening on port 61647
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 18610] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18610] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
